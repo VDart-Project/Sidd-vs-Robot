@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((800, 600))
 # Background
 background = pygame.image.load('background.png')
 instruc = pygame.image.load('howto.png')
-warehouse = pygame.image.load('warehouse.jpg')
+warehouse = pygame.image.load('factory.png')
 game_over = pygame.image.load('over.png')
 
 # background music
